@@ -1,4 +1,4 @@
-use std::io::{self, prelude::*};
+use std::io::prelude::*;
 
 #[derive(Debug)]
 pub enum QuotesStates {
